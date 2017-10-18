@@ -5,7 +5,8 @@
     <id>lightshot.install</id>
     <version>5.4.0.10</version>
     <title>Lightshot 5.4.0.10</title>
-    <authors>Alan</authors>
+    <authors>Skillbrains</authors>
+    <owners>Alan</owners>
     <projectUrl>https://app.prntscr.com/</projectUrl>
     <iconUrl>https://pbs.twimg.com/profile_images/2530932809/6dagi36ft16ya5hw0txm.png</iconUrl>
     <tags>lightshot.install lightshot screen screenshot print save capture</tags>
