@@ -13,9 +13,9 @@ $packageArgs = @{
 
     softwareName   = 'lightshot.install*'
 
-    checksum       = '2C057A72C95FEFA0F1F544D176B94390'
+    checksum       = '1B6D1F252704D9911478803E4FB195B7'
     checksumType   = 'md5'
-    checksum64     = '2C057A72C95FEFA0F1F544D176B94390'
+    checksum64     = '1B6D1F252704D9911478803E4FB195B7'
     checksumType64 = 'md5'
 
     validExitCodes = @(0, 3010, 1641)

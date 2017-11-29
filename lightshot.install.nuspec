@@ -3,8 +3,8 @@
   xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lightshot.install</id>
-    <version>5.4.0.10</version>
-    <title>Lightshot 5.4.0.10</title>
+    <version>5.4.0.35</version>
+    <title>Lightshot 5.4.0.35</title>
     <authors>Skillbrains</authors>
     <owners>Alan</owners>
     <projectUrl>https://app.prntscr.com/</projectUrl>
