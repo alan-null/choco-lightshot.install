@@ -3,7 +3,7 @@
   xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lightshot.install</id>
-    <version>5.4.0.35</version>
+    <version>5.4.0.36</version>
     <title>Lightshot 5.4.0.35</title>
     <authors>Skillbrains</authors>
     <owners>Alan</owners>
