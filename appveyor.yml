@@ -1,0 +1,19 @@
+# master branch configuration
+-
+  branches:
+    only:
+      - master
+
+  skip_tags: true
+  skip_commits:
+    message: /Update.*\.md/
+
+  version: 5.4.0.35.{build}
+
+  build_script:
+    - choco pack
+    - choco install lightshot.install -s '%cd%' -f -source "'.;https://chocolatey.org/api/v2/'"
+    - choco uninstall lightshot.install
+
+  artifacts:
+    - path: '*.nupkg'
