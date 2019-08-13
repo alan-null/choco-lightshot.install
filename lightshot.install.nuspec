@@ -8,9 +8,12 @@
     <authors>Skillbrains</authors>
     <owners>Alan</owners>
     <projectUrl>https://app.prntscr.com/</projectUrl>
-    <iconUrl>https://pbs.twimg.com/profile_images/2530932809/6dagi36ft16ya5hw0txm.png</iconUrl>
-    <tags>lightshot.install lightshot screen screenshot print save capture</tags>
+    <iconUrl>https://rawcdn.githack.com/alan-null/choco-lightshot.install/7224c47d5f5b8d87722b0893cd4ebf4e5434badc/icon.png</iconUrl>
+    <tags>lightshot screen screenshot print save capture</tags>
     <summary>The fastest way to take a customizable screenshot</summary>
+    <docsUrl>https://app.prntscr.com/en/tutorials.html</docsUrl>
+    <bugTrackerUrl>https://github.com/alan-null/choco-lightshot.install/issues</bugTrackerUrl>
+    <packageSourceUrl>https://github.com/alan-null/choco-lightshot.install</packageSourceUrl>
     <description>
     **Fast screenshot of selected area** - Our app allows you to select any area on your desktop and take its screenshot with 2 button-clicks
 
