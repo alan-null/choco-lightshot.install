@@ -1,10 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<package
-  xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>lightshot.install</id>
-    <version>5.5.0.4</version>
-    <title>Lightshot 5.5.0.4</title>
+    <version>5.5.0.7-update_20221014</version>
+    <title>Lightshot 5.5.0.7</title>
     <authors>Skillbrains</authors>
     <owners>Alan</owners>
     <projectUrl>https://app.prntscr.com/</projectUrl>
@@ -27,7 +26,7 @@
 
 
     **Powerful editors** - You can edit screenshots instantly when taking them or later using a powerful online editor.
-</description>
+    </description>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

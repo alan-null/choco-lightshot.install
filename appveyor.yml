@@ -8,11 +8,11 @@
   skip_commits:
     message: /Update.*\.md/
 
-  version: 5.4.0.35.{build}
+  version: 5.5.0.7-update_20221014.{build}
 
   build_script:
     - choco pack
-    - choco install lightshot.install -s '%cd%' -f -source "'.;https://chocolatey.org/api/v2/'"
+    - choco install -fdv .\lightshot.install.5.5.0.7-update_20221014.nupkg  -y -f
     - choco uninstall lightshot.install
 
   artifacts:
